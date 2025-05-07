@@ -1,6 +1,6 @@
 ## Getting Started
 
-First, clone he project. Then run these commands:
+First, clone the project. Then run these commands:
 
 ```bash
 cd  weather-next
